@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/example.dir/src/main.cpp.o -o /home/skinny/Common/CMake-Cpp-Starter/bin/example  /usr/lib/x86_64-linux-gnu/libSDL2.so 

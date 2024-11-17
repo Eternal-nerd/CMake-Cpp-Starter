@@ -1,0 +1,4 @@
+/home/skinny/Common/CMake-Cpp-Starter/build/CMakeFiles/example.dir
+/home/skinny/Common/CMake-Cpp-Starter/build/CMakeFiles/run.dir
+/home/skinny/Common/CMake-Cpp-Starter/build/CMakeFiles/edit_cache.dir
+/home/skinny/Common/CMake-Cpp-Starter/build/CMakeFiles/rebuild_cache.dir
